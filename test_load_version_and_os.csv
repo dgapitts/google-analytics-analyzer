@@ -1,0 +1,290 @@
+# ----------------------------------------
+# All Web Site Data
+# ***************
+# ***************
+# ----------------------------------------
+
+Browser,Browser Version,Operating System,Sessions
+Chrome,40.0.2214.111,Macintosh,"2,533"
+Safari,8.0,iOS,437
+Internet Explorer,11.0,Windows,389
+Chrome,36.0.1985.143,Windows,347
+Internet Explorer,9.0,Windows,297
+Safari,7.0,iOS,225
+Chrome,42.0.2311.135,Windows,186
+Internet Explorer,8.0,Windows,171
+(not set),(not set),(not set),118
+Internet Explorer,10.0,Windows,111
+Chrome,39.0.2171.95,Windows,91
+Firefox,33.0,Linux,91
+Chrome,38.0.2125.111,Windows,89
+Chrome,37.0.2062.124,Windows,78
+Android Browser,4.0,Android,67
+Chrome,43.0.2357.81,Windows,63
+Chrome,35.0.1916.153,Windows,61
+Chrome,42.0.2311.90,Windows,61
+Chrome,45.0.2454.85,Windows,54
+Chrome,39.0.2171.71,Windows,53
+Chrome,32.0.1700.107,Windows,51
+Chrome,41.0.2272.118,Windows,47
+Chrome,44.0.2403.157,Windows,45
+Firefox,38.0,Windows,45
+Chrome,43.0.2357.130,Windows,41
+Firefox,33.0,Windows,39
+Chrome,43.0.2357.124,Windows,37
+Chrome,42.0.2311.152,Windows,36
+Firefox,32.0,Windows,32
+Chrome,37.0.2062.120,Windows,30
+Chrome,38.0.2125.104,Windows,30
+Firefox,37.0,Windows,30
+Internet Explorer,7.0,Windows,30
+Firefox,34.0,Windows,29
+Chrome,39.0.2171.93,Android,28
+Safari,6.0,iOS,28
+Firefox,40.0,Windows,25
+Chrome,39.0.2171.65,Windows,24
+Firefox,39.0,Windows,24
+Firefox,35.0,Windows,23
+Safari,537,Windows Phone,23
+Chrome,43.0.2357.132,Windows,22
+Internet Explorer,11.0,Windows Phone,22
+Chrome,39.0.2171.99,Windows,21
+Chrome,41.0.2272.101,Windows,21
+Chrome,44.0.2403.155,Windows,21
+Chrome,40.0.2214.111,Windows,20
+Chrome,41.0.2272.89,Windows,20
+Chrome,41.0.2272.96,Android,20
+Chrome,43.0.2357.65,Windows,20
+Chrome,43.0.2357.134,Windows,18
+Chrome,1.5,Android,17
+Chrome,34.0.1847.76,Android,16
+Chrome,37.0.2062.117,Android,16
+Chrome,39.0.2171.50,iOS,16
+Chrome,44.0.2403.125,Windows,16
+Safari,5.1.9,Macintosh,16
+Chrome,43.0.2357.93,Android,15
+Safari,9537.53,iOS,15
+Chrome,40.0.2214.115,Windows,14
+Chrome,42.0.2311.135,Macintosh,14
+Chrome,44.0.2403.133,Android,14
+Firefox,36.0,Windows,14
+Safari,8.0,Macintosh,14
+Chrome,38.0.2125.114,Android,13
+Chrome,44.0.2403.130,Windows,13
+Firefox,24.0,Windows,13
+Safari,7.1.6,Macintosh,13
+Chrome,38.0.2125.111,Macintosh,12
+Chrome,40.0.2214.93,Windows,12
+Safari,7.0.6,Macintosh,12
+Safari (in-app),(not set),iOS,12
+Chrome,38.0.2125.101,Windows,11
+Chrome,38.0.2125.102,Android,11
+Firefox,37.0,Macintosh,11
+Chrome,38.0.2125.104,Macintosh,10
+Chrome,38.0.2125.122,Macintosh,10
+Chrome,39.0.2171.59,Android,10
+Chrome,40.0.2214.109,Android,10
+Chrome,45.0.2454.93,Windows,10
+Firefox,31.0,Windows,10
+Safari,600.1.4,iOS,10
+Safari,8.0.7,Macintosh,10
+Chrome,39.0.2171.95,Macintosh,9
+Chrome,40.0.2214.94,Windows,9
+Chrome,41.0.2272.118,Macintosh,9
+Chrome,43.0.2357.81,Macintosh,9
+Chrome,1.6,Android,8
+Chrome,18.0.1025.308,Android,8
+Chrome,28.0.1500.94,Android,8
+Chrome,37.0.2062.124,Macintosh,8
+Chrome,42.0.2311.47,iOS,8
+Chrome,44.0.2403.107,Windows,8
+Safari,5.0.6,Macintosh,8
+Safari,6.0.5,Macintosh,8
+Chrome,27.0.1453.93,Windows,7
+Chrome,33.0.1750.146,Windows,7
+Chrome,40.0.2214.73,iOS,7
+Chrome,42.0.2311.111,Android,7
+Safari,6.1.6,Macintosh,7
+Safari,7.1,Macintosh,7
+Safari,8.0.5,Macintosh,7
+Chrome,36.0.1985.125,Windows,6
+Chrome,37.0.2062.103,Windows,6
+Chrome,39.0.2171.71,Macintosh,6
+Chrome,42.0.2311.90,Macintosh,6
+Chrome,44.0.2403.157,Macintosh,6
+Firefox,23.0,Windows,6
+Firefox,33.0,Macintosh,6
+Firefox,35.0,Macintosh,6
+Safari,8.0.3,Macintosh,6
+Safari,8.0.6,Macintosh,6
+WeSEE_Bot:we_help_monitize_your_site,(not set),(not set),6
+Amazon Silk,3.32,Android,5
+Chrome,18.0.1025.166,Android,5
+Chrome,4.0,Android,5
+Chrome,40.0.2214.94,Macintosh,5
+Firefox,38.0,Macintosh,5
+Firefox,40.0,Macintosh,5
+Internet Explorer,10.0,Windows Phone,5
+Safari,5.1,iOS,5
+Safari,7.0.3,Macintosh,5
+Safari,8.0.4,Macintosh,5
+BlackBerry,10.3.1.2576,BlackBerry,4
+Chrome,1.0,Android,4
+Chrome,31.0.1650.63,Windows,4
+Chrome,39.0.2171.99,Macintosh,4
+Chrome,40.0.2214.91,Windows,4
+Chrome,41.0.2272.89,Macintosh,4
+Chrome,43.0.2357.130,Linux,4
+Chrome,43.0.2357.130,Macintosh,4
+Chrome,45.0.2454.84,Android,4
+Chrome,45.0.2454.85,Macintosh,4
+Edge,12.10240,Windows,4
+IE with Chrome Frame,8.0,Windows,4
+Opera,25.0.1614.68,Windows,4
+Safari,5.1.7,Macintosh,4
+Safari,7.0.5,Macintosh,4
+Safari,7.1.3,Macintosh,4
+Safari,8.0.2,Macintosh,4
+Amazon Silk,3.30,Android,3
+Chrome,11.0.696.34,Linux,3
+Chrome,31.0.1650.59,Android,3
+Chrome,35.0.1916.114,Windows,3
+Chrome,37.0.2062.122,Macintosh,3
+Chrome,38.0.2125.122,Windows,3
+Chrome,41.0.2272.104,Macintosh,3
+Chrome,42.0.2311.109,Android,3
+Chrome,42.0.2311.152,Macintosh,3
+Chrome,43.0.2357.132,Macintosh,3
+Chrome,44.0.2403.67,iOS,3
+Chrome,44.0.2403.89,Windows,3
+Chrome,45.0.2454.68,iOS,3
+Firefox,34.0,Macintosh,3
+Safari,6.1.5,Macintosh,3
+Safari,6.2,Macintosh,3
+Safari,7.1.4,Macintosh,3
+Safari,7.1.7,Macintosh,3
+Amazon Silk,3.35,Android,2
+BlackBerry,10.2.1.3442,BlackBerry,2
+Chrome,32.0.1700.99,Android,2
+Chrome,34.0.1847.116,Windows,2
+Chrome,37.0.2062.120,Macintosh,2
+Chrome,38.0.2125.110,Chrome OS,2
+Chrome,39.0.2171.96,Chrome OS,2
+Chrome,40.0.2214.89,Android,2
+Chrome,41.0.2272.58,iOS,2
+Chrome,41.0.2272.76,Macintosh,2
+Chrome,41.0.2272.76,Windows,2
+Chrome,42.0.2311.108,Android,2
+Chrome,42.0.2311.87,Chrome OS,2
+Chrome,43.0.2357.124,Macintosh,2
+Chrome,43.0.2357.56,iOS,2
+Chrome,44.0.2403.125,Macintosh,2
+Chrome,44.0.2403.155,Macintosh,2
+Chrome,44.0.2403.18,Windows,2
+Firefox,21.0,Windows,2
+Firefox,27.0,Windows,2
+Firefox,32.0,Macintosh,2
+Firefox,36.0,Macintosh,2
+Firefox,38.0,Linux,2
+Firefox,39.0,Macintosh,2
+Opera,31.0.1889.174,Macintosh,2
+Safari,5.0.5,Macintosh,2
+Safari,5.1.8,Macintosh,2
+Safari,6.1,Macintosh,2
+Safari,6.2.4,Macintosh,2
+Safari,7.1.2,Macintosh,2
+Amazon Silk,3.39,Android,1
+Amazon Silk,3.41,Android,1
+Amazon Silk,3.65,Android,1
+Amazon Silk,3.66,Android,1
+Amazon Silk,3.68,Android,1
+BlackBerry,10.3.1.2243,BlackBerry,1
+BlackBerry,7.1.0.714,BlackBerry,1
+BlackBerry8520,5.0.0.681,BlackBerry,1
+Chrome,2.0.173.1,Windows,1
+Chrome,2.1,Android,1
+Chrome,26.0.1410.58,Android,1
+Chrome,26.0.1410.64,Windows,1
+Chrome,28.0.1500.95,Windows,1
+Chrome,29.0.1547.76,Windows,1
+Chrome,30.0.0.0,Android,1
+Chrome,30.0.1599.101,Windows,1
+Chrome,31.0.1650.23,Windows,1
+Chrome,32.0.1667.0,Windows,1
+Chrome,32.0.1700.102,Windows,1
+Chrome,32.0.1700.76,Windows,1
+Chrome,33.0.0.0,Linux,1
+Chrome,33.0.1750.117,Windows,1
+Chrome,33.0.1750.136,Android,1
+Chrome,33.0.1750.154,Windows,1
+Chrome,34.0.1847.114,Android,1
+Chrome,34.0.1847.131,Windows,1
+Chrome,34.0.1847.18,iOS,1
+Chrome,35.0.1916.141,Android,1
+Chrome,35.0.1916.153,Macintosh,1
+Chrome,35.0.1916.47,Macintosh,1
+Chrome,37.0.2062.120,Chrome OS,1
+Chrome,37.0.2062.120,Linux,1
+Chrome,37.0.2062.94,Macintosh,1
+Chrome,38.0.2125.19,Windows,1
+Chrome,38.0.2125.59,iOS,1
+Chrome,38.0.2125.67,iOS,1
+Chrome,39.0.0.9626,Windows,1
+Chrome,39.0.2166.2,Macintosh,1
+Chrome,39.0.2171.45,iOS,1
+Chrome,39.0.2171.65,Macintosh,1
+Chrome,40.0.2214.95,Windows,1
+Chrome,41.0.2272.56,iOS,1
+Chrome,41.0.2272.76,Linux,1
+Chrome,41.0.2272.89,Linux,1
+Chrome,42.0.2311.134,Chrome OS,1
+Chrome,43.0.2357.134,Macintosh,1
+Chrome,43.0.2357.18,Windows,1
+Chrome,43.0.2357.51,iOS,1
+Chrome,43.0.2357.61,iOS,1
+Chrome,43.0.2357.65,Macintosh,1
+Chrome,43.0.2357.81,Chrome OS,1
+Chrome,43.0.2357.92,Android,1
+Chrome,44.0.2403.107,Macintosh,1
+Chrome,44.0.2403.128,Android,1
+Chrome,44.0.2403.156,Chrome OS,1
+Chrome,44.0.2403.9,Windows,1
+Firefox,20.0,Linux,1
+Firefox,22.0,Windows,1
+Firefox,24.0,Macintosh,1
+Firefox,28.0,Windows,1
+Firefox,33.0,Android,1
+Firefox,34.0.1,Windows,1
+Firefox,35.0,Android,1
+Firefox,36.0,Linux,1
+Firefox,38.0,Android,1
+Firefox,39.0,Android,1
+Firefox,4.0.1,Linux,1
+Firefox,6.0,Windows,1
+Firefox,9.0.1,Windows,1
+IE with Chrome Frame,7.0,Windows,1
+Internet Explorer,6.0,Windows,1
+Opera,12.17,Windows,1
+Opera,16.0.1196.73,Windows,1
+Opera,27.0.1689.66,Windows,1
+Opera,30.0.1835.88,Windows,1
+Opera Mini,4.3.24492,(not set),1
+Opera Mini,7.1.32453,(not set),1
+Opera Mini,7.1.33553,BlackBerry,1
+Opera Mini,7.6.40234,Android,1
+pr-cy.ru Screenshot Bot,(not set),(not set),1
+Safari,4.0.3,Macintosh,1
+Safari,4.1.3,Macintosh,1
+Safari,534.34,Linux,1
+Safari,6.1.3,Macintosh,1
+Safari,6.1.4,Macintosh,1
+Safari,6.2.2,Macintosh,1
+Safari,6.2.3,Macintosh,1
+Safari,7.0,Macintosh,1
+Safari,7.0.2,Macintosh,1
+Safari,7.1.8,Macintosh,1
+Safari,8.0.8,Macintosh,1
+UC Browser,3.4.3.532,Android,1
+YaBrowser,15.2.2214.3645,Windows,1
+,,,"7,374"
+
