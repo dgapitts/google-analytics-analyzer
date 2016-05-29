@@ -1,4 +1,4 @@
-# google-analytics-analyzer
+# google-analytics-analyzer [![wercker status](https://app.wercker.com/status/3200e275c698f760a950ed35eacb9260/s/master "wercker status")](https://app.wercker.com/project/bykey/3200e275c698f760a950ed35eacb9260)
 simple scripts to aggregate google analytics data
 
 
